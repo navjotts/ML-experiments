@@ -9,3 +9,4 @@ Implementation of small Machine Learning projects around different topics encoun
 4. Dimensionality Reduction by stacking PCA and t-SNE
 5. Use of meshgrid - 3D sampling
 6. Capturing video frames using OpenCV
+7. What works on Kickstarter (analysis)
