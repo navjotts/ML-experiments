@@ -3,9 +3,10 @@ import cv2
 cv2.namedWindow('image', cv2.WINDOW_NORMAL)
 
 def process_frame(frame):
-    print(frame.shape)
     cv2.imshow('image', frame)
     cv2.waitKey(0)
+    print(frame.shape)
+    # each frame is an image, which an be played around with ML models
 
 if __name__ == '__main__':
     cap = cv2.VideoCapture('videos/test.mp4')
