@@ -7,3 +7,4 @@ Implementation of small Machine Learning projects around different topics encoun
 2. Animating a plot in Google Colab
 3. Normalization done right
 4. Dimensionality Reduction by stacking PCA and t-SNE
+5. Use of meshgrid - 3D sampling
