@@ -6,3 +6,4 @@ Implementation of small Machine Learning projects around different topics encoun
 1. Analyzing a dataset
 2. Animating a plot in Google Colab
 3. Normalization done right
+4. Dimensionality Reduction by stacking PCA and t-SNE
