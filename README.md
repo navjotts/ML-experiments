@@ -10,3 +10,4 @@ Implementation of small Machine Learning projects around different topics encoun
 5. Use of meshgrid - 3D sampling
 6. Capturing video frames using OpenCV
 7. What works on Kickstarter (analysis)
+8. Derivatives with numpy and matplotlib
