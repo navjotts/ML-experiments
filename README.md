@@ -1,5 +1,9 @@
 # ML-experiments
-Implementation of small Machine Learning projects around different topics encountered while experimenting/learning
+Implementation of small Machine Learning projects around different topics encountered while experimenting/learning.
+
+These could be a nice primer for anyone looking for practice ML, and go deeper into understanding the various underlying concepts.
+
+These are in no particular order (whatever I am getting my hands on from past) for now - though I look to put them in order (w.r.t. practicing ML) in future.
 
 
 ## Topics
