@@ -11,3 +11,4 @@ Implementation of small Machine Learning projects around different topics encoun
 6. Capturing video frames using OpenCV
 7. What works on Kickstarter (analysis)
 8. Derivatives with numpy and matplotlib
+9. Linear Algebra with numpy and matplotlib
