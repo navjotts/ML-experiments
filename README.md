@@ -5,6 +5,8 @@ These could be a nice primer for anyone looking for practice ML, and go deeper i
 
 These are in no particular order (whatever I am getting my hands on from past) for now - though I look to put them in order (w.r.t. practicing ML) in future.
 
+Idea is to create a 50-ML-projects kind of list.
+
 
 ## Topics
 1. Analyzing a dataset
