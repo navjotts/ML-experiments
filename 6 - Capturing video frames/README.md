@@ -1,5 +1,8 @@
 # Instructions
 
+### Requirements
+* Python 3+
+
 ### Installing dependencies
 ```
 $ pip3 install -r requirements.txt
