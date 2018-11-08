@@ -19,3 +19,4 @@ Implementation of small Machine Learning projects around different topics encoun
 10. High Dimensionality and Manual Clustering
 11. PCA and Eigenfaces
 12. Dimensionality Reduction basics
+13. Linear Regression using Linear Algebra
