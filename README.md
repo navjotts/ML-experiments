@@ -18,3 +18,4 @@ Implementation of small Machine Learning projects around different topics encoun
 9. Linear Algebra with numpy and matplotlib
 10. High Dimensionality and Manual Clustering
 11. PCA and Eigenfaces
+12. Dimensionality Reduction basics
