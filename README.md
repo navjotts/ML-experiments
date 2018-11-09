@@ -20,3 +20,4 @@ Implementation of small Machine Learning projects around different topics encoun
 11. PCA and Eigenfaces
 12. Dimensionality Reduction basics
 13. Linear Regression using Linear Algebra
+14. Linear Regression using Gradient Descent
