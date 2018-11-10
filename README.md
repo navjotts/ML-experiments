@@ -22,3 +22,4 @@ Implementation of small Machine Learning projects around different topics encoun
 13. Linear Regression using Linear Algebra
 14. Linear Regression using Gradient Descent
 15. Applying Logistic Regression
+16. Metrics - decrypting ROC and AUC
