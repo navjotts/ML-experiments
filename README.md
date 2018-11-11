@@ -23,3 +23,4 @@ Implementation of small Machine Learning projects around different topics encoun
 14. Linear Regression using Gradient Descent
 15. Applying Logistic Regression
 16. Metrics - decrypting ROC and AUC
+17. K-fold Cross Validation
