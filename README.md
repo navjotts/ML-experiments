@@ -25,3 +25,4 @@ Implementation of small Machine Learning projects around different topics encoun
 16. Metrics - decrypting ROC and AUC
 17. K-fold Cross Validation
 18. Predicting Customer Churn
+19. Implementing K-Means from scratch
