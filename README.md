@@ -26,3 +26,4 @@ Implementation of small Machine Learning projects around different topics encoun
 17. K-fold Cross Validation
 18. Predicting Customer Churn
 19. Implementing K-Means from scratch
+20. Clustering text documents
