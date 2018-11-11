@@ -28,3 +28,4 @@ Implementation of small Machine Learning projects around different topics encoun
 19. Implementing K-Means from scratch
 20. Clustering text documents
 21. Comparing clustering algorithms
+22. Association models using Apriori
