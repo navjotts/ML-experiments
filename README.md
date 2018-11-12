@@ -30,3 +30,4 @@ Implementation of small Machine Learning projects around different topics encoun
 21. Comparing clustering algorithms
 22. Association models using Apriori
 23. Collaborative Filtering example
+24. Recommendation System using Matrix Factorization
