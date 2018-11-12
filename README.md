@@ -29,3 +29,4 @@ Implementation of small Machine Learning projects around different topics encoun
 20. Clustering text documents
 21. Comparing clustering algorithms
 22. Association models using Apriori
+23. Collaborative Filtering example
