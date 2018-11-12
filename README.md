@@ -32,3 +32,4 @@ Implementation of small Machine Learning projects around different topics encoun
 23. Collaborative Filtering example
 24. Recommendation System using Matrix Factorization
 25. Analyzing violence rates
+26. Spearman Rank Correlation and Chi-Square Test
