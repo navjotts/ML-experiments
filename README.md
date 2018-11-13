@@ -37,3 +37,4 @@ Implementation of small Machine Learning projects around different topics encoun
 28. Image Filtering via Convolution
 29. Feature extraction using OpenCV and SIFT
 30. Computer Vision basics
+31. Implementing backpropagation from scratch
