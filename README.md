@@ -12,29 +12,28 @@ Implementation of small Machine Learning projects around different topics encoun
 3. Normalization done right
 4. Dimensionality Reduction by stacking PCA and t-SNE
 5. Use of meshgrid - 3D sampling
-6. Capturing video frames using OpenCV
-7. What works on Kickstarter - analysis
-8. Derivatives with numpy and matplotlib
-9. Linear Algebra with numpy and matplotlib
-10. High Dimensionality and Manual Clustering
-11. PCA and Eigenfaces
-12. Dimensionality Reduction basics
-13. Linear Regression using Linear Algebra
-14. Linear Regression using Gradient Descent
-15. Applying Logistic Regression
-16. Metrics - decrypting ROC and AUC
-17. K-fold Cross Validation
-18. Predicting Customer Churn
-19. Implementing K-Means from scratch
-20. Clustering text documents
-21. Comparing clustering algorithms
-22. Association models using Apriori
-23. Collaborative Filtering example
-24. Recommendation System using Matrix Factorization
-25. Analyzing violence rates
-26. Spearman Rank Correlation and Chi-Square Test
-27. Bernoulli trial and the Bionomial distribution
-28. Image Filtering via Convolution
-29. Feature extraction using OpenCV and SIFT
-30. Computer Vision basics
-31. Implementing backpropagation from scratch
+6. What works on Kickstarter - analysis
+7. Derivatives with numpy and matplotlib
+8. Linear Algebra with numpy and matplotlib
+9. High Dimensionality and Manual Clustering
+10. PCA and Eigenfaces
+11. Dimensionality Reduction basics
+12. Linear Regression using Linear Algebra
+13. Linear Regression using Gradient Descent
+14. Applying Logistic Regression
+15. Metrics - decrypting ROC and AUC
+16. K-fold Cross Validation
+17. Predicting Customer Churn
+18. Implementing K-Means from scratch
+19. Clustering text documents
+20. Comparing clustering algorithms
+21. Association models using Apriori
+22. Collaborative Filtering example
+23. Recommendation System using Matrix Factorization
+24. Analyzing violence rates
+25. Spearman Rank Correlation and Chi-Square Test
+26. Bernoulli trial and the Bionomial distribution
+27. Image Filtering via Convolution
+28. Feature extraction using OpenCV and SIFT
+29. Computer Vision basics
+30. Implementing backpropagation from scratch
