@@ -42,3 +42,4 @@ Implementation of small Machine Learning projects/exercises around different top
 28. [Feature extraction using OpenCV and SIFT](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/28%20-%20Feature%20extraction%20using%20OpenCV%20and%20SIFT/Feature_extraction_using_OpenCV_and_SIFT.ipynb)
 29. [Computer Vision basics](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/29%20-%20Computer%20Vision%20basics/Computer_Vision_basics.ipynb)
 30. [Implementing backpropagation from scratch](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/30%20-%20Implementing%20backpropagation%20from%20scratch/Implementing_backpropagation_from_scratch.ipynb)
+31. Resume2vec - Word Embeddings
