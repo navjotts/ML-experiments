@@ -36,3 +36,4 @@ Implementation of small Machine Learning projects around different topics encoun
 27. Bernoulli trial and the Bionomial distribution
 28. Image Filtering via Convolution
 29. Feature extraction using OpenCV and SIFT
+30. Computer Vision basics
