@@ -44,4 +44,4 @@ Implementation of small Machine Learning projects/exercises around different top
 30. [Implementing backpropagation from scratch](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/30%20-%20Implementing%20backpropagation%20from%20scratch/Implementing_backpropagation_from_scratch.ipynb)
 31. [Resume2vec - Word Embeddings](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/31%20-%20Resume2vec%20-%20Word%20Embeddings/Resume2vec.ipynb)
 32. [Demystifying Deep CNNs - Implementing Max Pooling](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/32%20-%20Demystifying%20Deep%20CNNs%20-%20Implementing%20Max%20Pooling/Demystifying_Deep_CNNs_Implementing_Max_Pooling.ipynb)
-33. Deep Convolutional Neural Networks
+33. [Deep Convolutional Neural Networks](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/33%20-%20Deep%20Convolutional%20Neural%20Networks/Deep_Convolutional_Neural_Networks.ipynb)
