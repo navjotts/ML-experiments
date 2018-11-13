@@ -35,3 +35,4 @@ Implementation of small Machine Learning projects around different topics encoun
 26. Spearman Rank Correlation and Chi-Square Test
 27. Bernoulli trial and the Bionomial distribution
 28. Image Filtering via Convolution
+29. Feature extraction using OpenCV and SIFT
