@@ -34,3 +34,4 @@ Implementation of small Machine Learning projects around different topics encoun
 25. Analyzing violence rates
 26. Spearman Rank Correlation and Chi-Square Test
 27. Bernoulli trial and the Bionomial distribution
+28. Image Filtering via Convolution
