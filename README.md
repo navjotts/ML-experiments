@@ -7,6 +7,7 @@ Implementation of small Machine Learning projects around different topics encoun
 
 
 ## Topics
+(Links open at [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/))
 1. [Analyzing a dataset](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/1%20-%20Analyzing%20a%20dataset/Analyzing_a_dataset_titanic.ipynb)
 2. [Animating a plot in Google Colab](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/2%20-%20Animating%20a%20plot%20in%20Colab/Animating_a_plot_in_Colab.ipynb)
 3. [Normalization done right](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/3%20-%20Normalization%20done%20right/Normalization_done_right.ipynb)
