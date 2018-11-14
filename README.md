@@ -48,3 +48,4 @@ Implementation of small Machine Learning projects/exercises around different top
 34. [NLP baseline - Naive Bayes](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/34%20-%20NLP%20baseline%20-%20Naive%20Bayes/NLP_baseline_Naive_Bayes.ipynb)
 35. [Common mistake in creating Word Embeddings](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/35%20-%20Common%20mistake%20in%20creating%20Word%20Embeddings/Common_mistake_in_creating_Word_Embeddings.ipynb)
 36. [Spark, SparkSQL and MLlib on Google Colab](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/36%20-%20Spark%2C%20SparkSQL%20and%20MLlib%20on%20Google%20Colab/Spark%2C_SparkSQL_and_MLlib_on_Google_Colab.ipynb)
+37. NLP with Spark
