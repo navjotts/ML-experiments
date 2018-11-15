@@ -5,6 +5,7 @@ Implementation of small Machine Learning projects/exercises around different top
 * These are in no particular order (whatever I am getting my hands on from past) for now
 * **Intention is to create a 50-ML-projects kind of list**
 
+There is bound to be some imperfect stuff, these were some of the things I **explored** when starting out, and I have left them as they were – experiments.
 
 ## URL
 [https://ml-experiments.netlify.com/](https://ml-experiments.netlify.com/)
