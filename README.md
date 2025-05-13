@@ -1,5 +1,5 @@
 # ML-experiments
-This is a collection of small Machine Learning projects/exercises around different topics encountered while experimenting as newbie
+This is a collection of small Machine Learning projects/exercises around different topics encountered while experimenting as a newbie
 
 * These could be a nice primer for anyone looking to get some practice when starting in the ML field, and go deeper into understanding the various underlying concepts
 * These are in no particular order (whatever I got my hand on from my past notebooks)
