@@ -9,7 +9,7 @@ There is bound to be some imperfect stuff, these are picked from some of the thi
 Readers are expected to do their own explorations and arrive on their own conclusions – please shoot me an [email](navjotts@gmail.com) if you find something stupidly wrong.
 
 ## URL
-[https://ml-experiments.netlify.com/](https://ml-experiments.netlify.com/)
+[https://ml-experiments.netlify.app/](https://ml-experiments.netlify.app/)
 
 
 ## Topics
