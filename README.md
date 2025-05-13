@@ -6,7 +6,7 @@ This is a collection of small Machine Learning projects/exercises around differe
 * **Intention is to create a 50-ML-projects kind of list**
 
 There is bound to be some imperfect stuff, these are picked from some of the things I **explored** when starting out, and I have left them as they were – experiments.  
-Readers are expected to do their own explorations and arrive on their own conclusions – please shoot me an [email](navjotts@gmail.com) if you find something stupidly wrong.
+Readers are expected to do their own explorations and arrive on their own conclusions – please shoot me an [email](mailto:navjotts@gmail.com) if you find something stupidly wrong.
 
 ## URL
 [https://ml-experiments.netlify.app/](https://ml-experiments.netlify.app/)
