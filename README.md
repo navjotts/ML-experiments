@@ -1,11 +1,11 @@
 # ML-experiments
-Implementation of small Machine Learning projects/exercises around different topics encountered while experimenting
+This is a collection of small Machine Learning projects/exercises around different topics encountered while experimenting as newbie
 
-* These could be a nice primer for anyone looking to practice ML, and go deeper into understanding the various underlying concepts
-* These are in no particular order (whatever I got my hand on)
+* These could be a nice primer for anyone looking to get some practice when starting in the ML field, and go deeper into understanding the various underlying concepts
+* These are in no particular order (whatever I got my hand on from my past notebooks)
 * **Intention is to create a 50-ML-projects kind of list**
 
-There is bound to be some imperfect stuff, these were some of the things I **explored** when starting out, and I have left them as they were – experiments. For your own exercise, feel free to fix the issues/imperfections, and go on your explorations.
+There is bound to be some imperfect stuff, these are picked from some of the things I **explored** when starting out, and I have left them as they were – experiments. For your own exercise, feel free to fix the issues/imperfections, and go on your explorations.
 
 ## URL
 [https://ml-experiments.netlify.com/](https://ml-experiments.netlify.com/)
