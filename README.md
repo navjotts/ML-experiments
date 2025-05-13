@@ -2,10 +2,10 @@
 Implementation of small Machine Learning projects/exercises around different topics encountered while experimenting
 
 * These could be a nice primer for anyone looking to practice ML, and go deeper into understanding the various underlying concepts
-* These are in no particular order (whatever I am getting my hands on from past) for now
+* These are in no particular order (whatever I got my hand on)
 * **Intention is to create a 50-ML-projects kind of list**
 
-There is bound to be some imperfect stuff, these were some of the things I **explored** when starting out, and I have left them as they were – experiments.
+There is bound to be some imperfect stuff, these were some of the things I **explored** when starting out, and I have left them as they were – experiments. For your own exercise, feel free to fix the issues/imperfections, and go on your explorations.
 
 ## URL
 [https://ml-experiments.netlify.com/](https://ml-experiments.netlify.com/)
@@ -48,6 +48,3 @@ There is bound to be some imperfect stuff, these were some of the things I **exp
 33. [Deep Convolutional Neural Networks](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/33%20-%20Deep%20Convolutional%20Neural%20Networks/Deep_Convolutional_Neural_Networks.ipynb)
 34. [NLP baseline - Naive Bayes](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/34%20-%20NLP%20baseline%20-%20Naive%20Bayes/NLP_baseline_Naive_Bayes.ipynb)
 35. [A common mistake in creating Word Embeddings](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/35%20-%20A%20common%20mistake%20in%20creating%20Word%20Embeddings/A_common_mistake_in_creating_Word_Embeddings.ipynb)
-36. [Spark, SparkSQL and MLlib on Google Colab](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/36%20-%20Spark%2C%20SparkSQL%20and%20MLlib%20on%20Google%20Colab/Spark%2C_SparkSQL_and_MLlib_on_Google_Colab.ipynb)
-37. [NLP with Spark](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/37%20-%20NLP%20with%20Spark/NLP_with_Spark.ipynb)
-38. [Deep NLP and Hyperparameter Tuning](https://nbviewer.jupyter.org/github/navjotts/ML-experiments/blob/master/38%20-%20Deep%20NLP%20and%20Hyperparameter%20Tuning/Deep_NLP_and_Hyperparam_Tuning.ipynb)
